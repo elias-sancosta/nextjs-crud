@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import AddTask from './_components/AddTask';
 import TodoList from './_components/TodoList';
 import { getAllTasks } from '@/api';
